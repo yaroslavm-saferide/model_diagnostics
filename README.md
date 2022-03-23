@@ -24,7 +24,7 @@ Through it, an analysis of the performance of an individual model can be visuali
 
 <ul>
 	<li>Please fill out the second cell with the names of the relevant columns.</li>
-	<li>The list of meta-features will be based on the METAFEATURES constant variable. The test looks for columns containing a substring of at least one element from the METAFEATURES list.</li>
+	<li>The list of meta-features will be based on the META_FEATURES constant variable. The test looks for columns containing a substring of at least one element from the META_FEATURES list.</li>
 	<li>As long as there are no residual or residual absolute columns, please use the default names (as shown in the example notebook). These columns will be added to the dataframe.</li>
 </ul>
 
