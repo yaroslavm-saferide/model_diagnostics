@@ -1,4 +1,6 @@
-<p><img alt="" src="https://media-exp1.licdn.com/dms/image/C560BAQHrp_WoJMMFlw/company-logo_200_200/0/1639492632722?e=2147483647&amp;v=beta&amp;t=14tiwPWRBc2nMTG9jVUh1c3Xg1izHEGwIyVvuj41Ot8" style="height:200px; width:200px" /></p>
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHrp_WoJMMFlw/company-logo_200_200/0/1639492632722?e=2147483647&amp;v=beta&amp;t=14tiwPWRBc2nMTG9jVUh1c3Xg1izHEGwIyVvuj41Ot8" />
+</p>
 
 <p>This repository contains a model diagnostic notebook.<br />
 Through it, an analysis of the performance of an individual model can be visualized.<br />
@@ -25,3 +27,5 @@ Through it, an analysis of the performance of an individual model can be visuali
 	<li>The list of meta-features will be based on the METAFEATURES constant variable. The test looks for columns containing a substring of at least one element from the METAFEATURES list.</li>
 	<li>As long as there are no residual or residual absolute columns, please use the default names (as shown in the example notebook). These columns will be added to the dataframe.</li>
 </ul>
+
+<p style="margin-left:40px"><img src="https://ckeditor.com/apps/ckfinder/userfiles/files/image-20220323163059-1.png" style="height:136px; width:703px" /></p>
